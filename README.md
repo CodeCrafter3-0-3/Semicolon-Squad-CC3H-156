@@ -1,6 +1,6 @@
-Team Id: CC3H-156
-Team Name: Semicolon Squad 
-Team Menbers:
+Team Id: CC3H-156 <br>
+Team Name: Semicolon Squad <br>
+Team Members: <br> 
 1) Vansh Goyal
 2) Yash Rohilla
 3) Khushi Malhotra
